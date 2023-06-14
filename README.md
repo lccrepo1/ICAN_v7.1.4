@@ -1,3 +1,3 @@
 # ICAN_v7.1.4
 
-hello
+Download RAR file then extract it to Drive C.
